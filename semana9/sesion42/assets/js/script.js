@@ -35,7 +35,9 @@ console.log(nums);
 //.find()
 //Devuelve el primer elemento que cumple con una condicion
 let coincidencia = nums.find((num) => num > 80);
+
 let coincidenciaIndex = nums.findIndex((num) => num > 80);
+
 let filtrado = nums.filter((num) => num > 60);
 
 console.log(coincidencia); 
