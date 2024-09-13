@@ -1,8 +1,15 @@
 body {
-  color: purple;
-  background-color: beige;
+  color: rgb(45, 46, 37);
+  background-color: rgb(39, 200, 24);
   align-items: center;
 }
 h1 {
   text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 70px;
+}
+p {
+  font-size: 20px;
+  color: black;
 }
